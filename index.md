@@ -10,7 +10,7 @@
 </tr>
 
 <tr>
-<td>Jean*s portfolio</td>
+<td align="center">Jean*s portfolio</td>
 </tr>
 </table>
 </div>
