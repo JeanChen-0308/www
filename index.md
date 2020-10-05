@@ -21,7 +21,7 @@
 <tr>
 <td align="left"bgcolor="#ffffff"><a href="index.htm">作品集</a>　　>
 <a href="index.htm">電繪作品</a>　　>
-photoshop作品
+<a href="index.htm">photoshop作品</a>　　>
 </td>
 </tr>
 </table>
