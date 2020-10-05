@@ -19,8 +19,8 @@
 <table width="1000"border="0"cellpadding="0"cellspacing="1"bgcolor="#999999">
 
 <tr>
-<td align="left"bgcolor="#ffffff"><a herf="index.htm">作品集</a>　　>
-<a herf="index.htm">電繪作品</a>　　>
+<td align="left"bgcolor="#ffffff"><a href="index.htm">作品集</a>　　>
+<a href="index.htm">電繪作品</a>　　>
 photoshop作品
 </td>
 </tr>
